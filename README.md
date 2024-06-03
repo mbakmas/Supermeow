@@ -25,6 +25,6 @@ pip install modul
 ```
 python vip.py
 ```
-
+# LICENSE ADA DI GRUP TELEGRAM AIRDROPFAMILYIDN
 # JOIN KOMUNITAS AIRDROP 
 https://t.me/AirdropFamilyIDN
