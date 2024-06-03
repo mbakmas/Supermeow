@@ -1,4 +1,4 @@
-# BOT Supermewo
+# BOT Supermeow
 Support Multi Akun
 
 BOT FROM AIRDROPFAMILYIDN
@@ -8,7 +8,7 @@ git clone https://github.com/AirDropFamilyIDN/Supermewo.git
 ```
 
 ```
-cd Supermewo
+cd Supermeow
 ```
 
 Edit File Data.txt Convert query_id to URL
