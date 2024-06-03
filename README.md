@@ -4,7 +4,7 @@ Support Multi Akun
 BOT FROM AIRDROPFAMILYIDN
 # How To Run Bot
 ```
-git clone https://github.com/AirDropFamilyIDN/Supermewo.git
+git clone https://github.com/AirDropFamilyIDN/Supermeow.git
 ```
 
 ```
